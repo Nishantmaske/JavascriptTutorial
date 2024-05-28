@@ -1,2 +1,2 @@
 # JavascriptTutorial
-A complete Javascript tutorial for beginners  with Programm
+A repo for a complete Javascript tutorial for beginners  with Programm
