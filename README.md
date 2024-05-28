@@ -1,2 +1,2 @@
 # JavascriptTutorial
-A 15 days chalenge of completing Javascript for begginer
+A complete Javascript tutorial for beginners  with Programm
